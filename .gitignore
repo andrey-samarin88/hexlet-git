@@ -45,3 +45,5 @@ docker-compose.yml
 /coverage
 .tool-versions
 .idea/
+#Ignore file in any project directory
+INFO.md
